@@ -17,3 +17,14 @@
 - [Retrievers for RAG workflows](https://docs.aws.amazon.com/prescriptive-guidance/latest/retrieval-augmented-generation-options/rag-custom-retrievers.html)
 - [Generators for RAG workflows](https://docs.aws.amazon.com/prescriptive-guidance/latest/retrieval-augmented-generation-options/rag-custom-generators.html)
 - [Knowledge Bases now delivers fully managed RAG experience in Amazon Bedrock](https://aws.amazon.com/blogs/aws/knowledge-bases-now-delivers-fully-managed-rag-experience-in-amazon-bedrock/)
+
+## Day 2 links
+- [Community tools package](https://strandsagents.com/latest/documentation/docs/user-guide/concepts/tools/community-tools-package/)
+- [Introducing Amazon Nova Act](https://labs.amazon.science/blog/nova-act)
+- [Welcome to Amazon Nova Act](https://nova.amazon.com/act)
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
+- [ReAct Prompting])https://www.promptingguide.ai/techniques/react)
+- [What is the Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction)
+- [Model context protocol/servers](https://github.com/modelcontextprotocol/servers)
+- [awslabs/mcp](https://github.com/awslabs/mcp)
+- [Core Concepts Summary](https://a2a-protocol.org/latest/specification/#2-core-concepts-summary)
