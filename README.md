@@ -28,3 +28,6 @@
 - [Model context protocol/servers](https://github.com/modelcontextprotocol/servers)
 - [awslabs/mcp](https://github.com/awslabs/mcp)
 - [Core Concepts Summary](https://a2a-protocol.org/latest/specification/#2-core-concepts-summary)
+- [Introducing Amazon Bedrock AgentCore: Securely deploy and operate AI agents at any scale (preview)](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-agentcore-securely-deploy-and-operate-ai-agents-at-any-scale/)
+- [Enabling customers to deliver production-ready AI agents at scale](https://aws.amazon.com/blogs/machine-learning/enabling-customers-to-deliver-production-ready-ai-agents-at-scale/)
+- [Amazon Bedrock AgentCore Memory: Building context-aware agents](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-memory-building-context-aware-agents/)
